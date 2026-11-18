@@ -1,33 +1,33 @@
-# Download hunspell-ru-0.9.8.jar
+# Russian dictionaries for JetBrains Grazie
 
-Неофициальное зеркало русского словаря Hunspell для JetBrains Grazie.
+Скачать `hunspell-ru-0.9.8.jar` и `ru-6.8.28.jar` для JetBrains Grazie.
 
-Unofficial download mirror of the Russian Hunspell dictionary for JetBrains Grazie.
+Download `hunspell-ru-0.9.8.jar` and `ru-6.8.28.jar` for JetBrains Grazie.
+
+Неофициальное зеркало файлов для русской проверки орфографии и грамматики в IDE JetBrains.
 
 ## Скачать / Download
 
-Откройте [Releases](../../releases) и скачайте `hunspell-ru-0.9.8.jar` из раздела
-**Assets** релиза `0.9.8`.
+Откройте [Releases](../../releases) и скачайте нужный файл из раздела **Assets**:
 
-Open [Releases](../../releases) and download `hunspell-ru-0.9.8.jar` from the
-**Assets** section of release `0.9.8`.
+| Файл / File | Назначение / Purpose |
+|---|---|
+| `hunspell-ru-0.9.8.jar` | Русский словарь Hunspell / Russian Hunspell dictionary |
+| `ru-6.8.28.jar` | Русская языковая модель LanguageTool / Russian LanguageTool language pack |
 
-## Maven coordinates
+Open [Releases](../../releases) and download the required file from **Assets**.
 
-```text
-ai.grazie.spell:hunspell-ru:0.9.8
-```
+## Оригинальные источники / Original sources
 
-## Оригинальный источник / Original source
+- [hunspell-ru-0.9.8.jar — JetBrains Grazie Maven Repository](https://packages.jetbrains.team/maven/p/grazi/grazie-platform-public/ai/grazie/spell/hunspell-ru/0.9.8/hunspell-ru-0.9.8.jar)
+- [ru-6.8.28.jar — JetBrains Resources](https://resources.jetbrains.com/grazie/model/language-tool/6.8.28/ru-6.8.28.jar)
 
-[JetBrains Grazie Maven Repository](https://packages.jetbrains.team/maven/p/grazi/grazie-platform-public/ai/grazie/spell/hunspell-ru/0.9.8/)
+Зеркало создано для случаев, когда оригинальные серверы недоступны. Версии файлов должны соответствовать требованиям вашей IDE и плагина Grazie.
 
-Это зеркало создано для случаев, когда оригинальный репозиторий недоступен.
-
-This mirror provides an alternative download when the original repository is unavailable.
+This mirror provides alternative downloads when the original servers are unavailable. Use versions compatible with your IDE and Grazie plugin.
 
 ## Правообладатели / Attribution
 
-Проект не связан с JetBrains и не является официальным репозиторием. Права на содержимое и условия его использования определяются лицензиями оригинального артефакта.
+Проект не связан с JetBrains и не является официальным репозиторием. Права на содержимое и условия его использования определяются лицензиями оригинальных артефактов.
 
-This project is not affiliated with JetBrains. Ownership and usage terms are governed by the original artifact’s licenses.
+This project is not affiliated with JetBrains. Ownership and usage terms are governed by the original artifacts’ licenses.
